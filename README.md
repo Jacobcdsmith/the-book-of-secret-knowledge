@@ -105,6 +105,7 @@ Only main chapters:
 - **[Shell One-liners](#shell-one-liners-toc)**
 - **[Shell Tricks](#shell-tricks-toc)**
 - **[Shell Functions](#shell-functions-toc)**
+- **[My Projects](#my-projects-toc)**
 
 ## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
 
@@ -4440,3 +4441,13 @@ shell> GetASN 1.1.1.1
 shell> GetASN 0.0.0.0
 Unsuccessful ASN gathering.
 ```
+
+#### My Projects &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+
+<a name="my-projects-toc"></a>
+
+##### :black_small_square: Personal Projects
+
+&nbsp;&nbsp; <a href="https://github.com/Jacobcdsmith/kairos"><b>kairos</b></a> - local-first knowledge framework with source-grounded provenance. Every fact cites its exact origin.<br>
+&nbsp;&nbsp; <a href="https://github.com/Jacobcdsmith/MCP-Commander-Console"><b>MCP Commander Console</b></a> - advanced Model Context Protocol orchestration hub and command interface for routing, filtering, and managing LLM context streams and tool deployments across distributed system nodes.<br>
+&nbsp;&nbsp; <a href="https://github.com/Jacobcdsmith/GitHub-Language-Capstone"><b>GitHub Language Capstone</b></a> - data analysis and interactive visualization platform for GitHub language statistics, combining reproducible Jupyter notebooks with a Vite + React dashboard.<br>
